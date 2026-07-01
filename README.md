@@ -230,7 +230,3 @@ Data Science | Data Analytics | Machine Learning Enthusiast
 # ⭐ If you found this project useful
 
 Please consider giving it a ⭐ on GitHub.
-
-## 📄 License
-
-This project is created for educational and portfolio purposes.
